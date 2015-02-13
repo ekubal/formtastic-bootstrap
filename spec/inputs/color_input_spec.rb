@@ -207,4 +207,3 @@ describe 'color input' do
   end
 
 end
-
